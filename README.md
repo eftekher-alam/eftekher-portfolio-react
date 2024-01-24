@@ -4,5 +4,5 @@
 
 + Made with tailwind
 
-![Home Page](https://raw.githubusercontent.com/eftekher-alam/eftekher-portfolio-react/main/public/portfolio-home.png)
+![Home Page](https://raw.githubusercontent.com/eftekher-alam/eftekher-portfolio-react/main/public/portfolio-home-1.png)
 
